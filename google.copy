@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <header>
+      <div class="header-wrapper">
+        <img class="dots" src="img/dots.png">
+        <div href="#" class="image">Images</div>
+        <div href="#" class="mail">Gmail</div>
+      </div>
+    </header>
+    <div class="main">
+    <img class="logo" src="img/google.png">
+    <div class="search">
+      <img class="magnify" src="img/magnify.png">
+      <img class="mic" src="img/mic.png">
+    </div>
+    <div class="btn google">Google search</div>
+    <div class="btn lucky">I'm Feeling Lucky</div>
+    <div class="language">Google offered in : <a href="#">日本語</a> </div>
+    </div>
+    <footer>
+      <div class="footer-wrapper">
+        <div class="footer-1">
+          <a  href="#" class="cur Japan">Japan</a>
+        </div>
+        <div class="footer-2">
+          <a class="cur about">
+            about
+          </a>
+          <a class="cur advertising">
+            advertising
+          </a>
+          <a class="cur business">
+            business
+          </a>
+          <a class="cur How">
+            How Search works
+          </a>
+        </div>
+
+      </div>
+    </footer>
+  </body>
